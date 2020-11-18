@@ -1,0 +1,17 @@
+#navbar-example2 {
+    background-color: #191970;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+#about {
+    margin-top: 100px;
+    text-align: center;
+}
+
