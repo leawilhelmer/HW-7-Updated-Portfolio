@@ -15,3 +15,23 @@
     text-align: center;
 }
 
+.card {
+    text-align: center;
+}
+
+.card-header{
+    font-size: 30px;
+}
+
+.center {
+    display: block;
+    margin-top: 50px;
+    margin-left: 530px;
+    margin-right: 530px;
+    margin-top: 20px;
+    width: 50%;
+}
+
+#link {
+    text-align: center;
+}
