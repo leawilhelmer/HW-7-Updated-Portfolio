@@ -13,25 +13,24 @@
 #about {
     margin-top: 100px;
     text-align: center;
+    background-color: lavender;
 }
 
 .card {
     text-align: center;
 }
 
-.card-body {
-    padding: 3rem;
-}
 
 .card-header{
     font-size: 30px;
 }
 
-.center {
+.picture {
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 500px;
 }
 
 #link {
