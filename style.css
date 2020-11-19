@@ -19,17 +19,19 @@
     text-align: center;
 }
 
+.card-body {
+    padding: 3rem;
+}
+
 .card-header{
     font-size: 30px;
 }
 
 .center {
     display: block;
-    margin-top: 50px;
-    margin-left: 530px;
-    margin-right: 530px;
-    margin-top: 20px;
-    width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 #link {
